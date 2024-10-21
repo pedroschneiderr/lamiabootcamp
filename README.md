@@ -1,2 +1,2 @@
 # lamiabootcamp
-LAMIA Machine Learning Bootcamp code
+LAMIA Machine Learning Bootcamp code.
